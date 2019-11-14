@@ -1,2 +1,3 @@
 # imnotgay.wtf
-Website
+
+Terminal based site made from Dostoy.js
